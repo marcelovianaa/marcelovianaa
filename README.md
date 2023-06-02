@@ -3,11 +3,14 @@
 - 🚀 Desenvolvedor Front-End
 
 - 💬 Pergunte-me sobre **HTML,CSS,JavaScript** 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovianaa&layout=compact" />
 
   <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=marcelovianaa&show_icons=true&theme=radical" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovianaa&layout=compact" />
+
 <br>
 <div>
+  <br><br>
 <h2>📫Meus Contatos:</h2>
   <a href = "mailto:marceloviana9153@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcelo-viana-9a962124a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
