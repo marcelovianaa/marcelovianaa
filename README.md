@@ -3,12 +3,8 @@
 - 🚀 Desenvolvedor Front-End
 
 - 💬 Pergunte-me sobre **HTML,CSS,JavaScript** 
-
   <img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=marcelovianaa&show_icons=true&theme=radical" />
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelovianaa&layout=compact" />
-
-<br>
 <div>
   <br><br>
 <h2>📫Meus Contatos:</h2>
